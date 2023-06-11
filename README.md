@@ -11,11 +11,14 @@ GOAL: Building a neural network that classifies images of handwritten digits and
 1. Start with 28 * 28 pixel training images. 784 pixels overall. Each value is between 0(black) and 255(white) and we have m of these training images which can be represented as below: 
 
     ┌ -- x(1) -- ┐ T
+    
     | -- x(2) -- |
-X = | -- x(3) -- |     each row is 784 columns long corresponding to each pixel in the image.
+    
+X = | -- x(3) -- |     each row is 784 columns long corresponding to each pixel in the image
     | --  ..  -- |
     | --  ..  -- |
-    ┖ -- x(m) -- ┘
+    
+    └ -- x(m) -- ┘
     
  what are we going to work with is the transpose where each column will be one example which means we will have m columns.
  

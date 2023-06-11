@@ -15,7 +15,9 @@ GOAL: Building a neural network that classifies images of handwritten digits and
     | -- x(2) -- |
     
 X = | -- x(3) -- |     each row is 784 columns long corresponding to each pixel in the image
+
     | --  ..  -- |
+    
     | --  ..  -- |
     
     └ -- x(m) -- ┘

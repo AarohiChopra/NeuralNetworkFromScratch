@@ -29,12 +29,14 @@ X = | -- x(3) -- |     each row is 784 columns long corresponding to each pixel 
  
  ### Training:
  Traning this involved 3 parts:
+ 
  1. Forward propogation
 
-![IMG_6215](https://github.com/AarohiChopra/NeuralNetworkFromScratch/assets/51353233/aa77a401-5aee-4c84-8820-821862560ef2)
+![IMG_6215](https://github.com/AarohiChopra/NeuralNetworkFromScratch/assets/51353233/e5c6dfd9-f023-4fd5-8187-e605711e9ea5)
 
  2. Backward propogation
- ![IMG_6216](https://github.com/AarohiChopra/NeuralNetworkFromScratch/assets/51353233/d730a393-fd53-488f-a45e-2fa0c8c82adf)
+
+![IMG_6216](https://github.com/AarohiChopra/NeuralNetworkFromScratch/assets/51353233/52e930d6-251d-49fc-9ca4-74a503ff9a43)
 
  3. Update Parameters
  
